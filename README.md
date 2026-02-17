@@ -18,7 +18,15 @@ Haz clic en los enlaces para ver mi código y análisis directamente en GitHub:
 
   Conclusiones: La proximidad al establecimiento y la participación en clases grupales son indicadores clave de retención; clientes con contratos anuales tienen un 40% menos de probabilidad de abandono.
 
+**Visualizaciones Clave:**
 
+![Distribuciones de variables categóricas](Imagen%201%20Retencion.png)
+
+*Figura 1: Análisis de distribución para Género, Localización, Socios, Amigos, Teléfono y Periodo de contrato.*
+
+![Distribuciones de variables numéricas](Imagen%202%20Retencion.png)
+
+*Figura 2: Comparativa de Edad, Visitas grupales, Cargos adicionales y Frecuencia de visitas.*
 
 2.  **[Optimización de Gastos de Marketing](./Optimización%20de%20Gastos%20de%20Marketing.ipynb)**: Análisis de ROI y eficiencia de campañas publicitarias.
    
@@ -28,6 +36,16 @@ Haz clic en los enlaces para ver mi código y análisis directamente en GitHub:
 
   Conclusiones: Se identificaron canales con retorno negativo, recomendando redistribuir el 20% del presupuesto hacia canales con mayor retención a largo plazo.
   
+  **Visualizaciones Clave:**
+
+![Críticos vs Ventas](Imagen%201%20Optimizacion.png)
+
+*Figura 3: Correlación entre las calificaciones de críticos y el éxito comercial (ventas globales).*
+
+![Usuarios vs Ventas](Imagen%202%20Optimización.png)
+
+*Figura 4: Comparativa de calificaciones de usuarios vs ventas, incluyendo coeficientes de correlación.*
+  
 3.  **[Análisis de Competencia y Clima](./Análisis%20de%20Competencia%20y%20Clima.ipynb)**: Procesamiento de datos externos para optimizar la toma de decisiones.
 
   Contexto: Estudio del impacto del clima y la competencia en la duración de los viajes de una empresa de traslados en Chicago.
@@ -35,6 +53,16 @@ Haz clic en los enlaces para ver mi código y análisis directamente en GitHub:
   Mi análisis: Empleé SQL para la extracción de datos y Python para realizar un Análisis Exploratorio de Datos (EDA) y pruebas T de hipótesis.
 
   Conclusiones: La duración de los viajes aumenta significativamente en fines de semana lluviosos, permitiendo ajustar algoritmos de precios dinámicos.
+
+  **Visualizaciones Clave:**
+
+![Críticos vs Ventas](Imagen%201%20Analisis.png)
+
+*Figura 5: Correlación entre las calificaciones de críticos y el éxito comercial (ventas globales).*
+
+![Usuarios vs Ventas](Imagen%202%20Analisis.png)
+
+*Figura 6: Comparativa de calificaciones de usuarios vs ventas, incluyendo coeficientes de correlación.*
 
 ## ✉️ Contacto
 * **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/jair-eduardo-alfaro-ahuatzin-/)
