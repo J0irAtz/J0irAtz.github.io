@@ -15,5 +15,5 @@ Haz clic en los enlaces para ver mi código y análisis directamente en GitHub:
 3.  **[Análisis de Competencia y Clima](./Análisis%20de%20Competencia%20y%20Clima.ipynb)**: Procesamiento de datos externos para optimizar la toma de decisiones.
 
 ## ✉️ Contacto
-* **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/jair-eduardo-alfaro-ahuatzin-414894314/)
+* **LinkedIn:** [Perfil de LinkedIn](https:/www.linkedin.com/in/jair-eduardo-alfaro-ahuatzin-)
 * **Email:** jr.hew0520@gmail.com
